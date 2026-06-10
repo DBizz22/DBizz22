@@ -6,7 +6,7 @@
 
 🔭 Current project: a **cloud-edge IoMT cardiac prediction system** simulating a full medical IoT pipeline with XGBoost/LightGBM, ONNX Runtime, Kafka, and Kubernetes — exploring distributed ML at the edge.
 
-🛠️ Stack: Python · C++ · ROS2 · Docker · Kafka · TimescaleDB · MLflow · Ray Tune · ONNX · Grafana
+🛠️ Stack: C/C++ · Python · Java · ROS2 
 
 💞️ Open to collaborating on robotics, autonomous systems, or anything that pushes real code into real environments.
 
